@@ -1,6 +1,6 @@
 ---
 identifier: teddy-bear
-name: Teddy Bear
+name: Teddy Bärchen
 price: 30.00
 image: /assets/images/teddybear.png
 title: ToyStore - Teddy Bear
